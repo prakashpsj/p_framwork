@@ -6,8 +6,8 @@ import org.openqa.selenium.support.How;
 
 public class Loginpom {
 	
-	@FindBy(how=How.XPATH,using="//input[@type='text']")
-	private WebElement email;
+	@FindBy(how=How.XPATH,using="//input[@type='text']")                
+	private WebElement email;                                         // Here Encapsulation is used...[private]
 	
 	@FindBy(how=How.XPATH,using="//input[@type=\"password\"]")
 	private WebElement pass;

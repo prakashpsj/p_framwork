@@ -18,7 +18,7 @@ public class ConfigDataProvider {
 	
 	public String  get_BaseUrl_QA1() {
 		return pro.getProperty("BaseUrl_QA1");
-			
+		
 	}
 	public String get_BaseUrl_QA2() {
 		return pro.getProperty(get_BaseUrl_QA2());

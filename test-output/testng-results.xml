@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-23T22:06:56 IST" name="MasterSuite" finished-at="2022-08-23T22:08:07 IST" duration-ms="70214">
+  <suite started-at="2022-09-21T19:22:14 IST" name="Default suite" finished-at="2022-09-21T19:22:55 IST" duration-ms="41456">
     <groups>
     </groups>
-    <test started-at="2022-08-23T22:06:56 IST" name="Test" finished-at="2022-08-23T22:08:07 IST" duration-ms="70214">
+    <test started-at="2022-09-21T19:22:14 IST" name="Default test" finished-at="2022-09-21T19:22:55 IST" duration-ms="41456">
       <class name="Com.Test.Test_TC_001">
-        <test-method is-config="true" signature="Bs()[pri:0, instance:Com.Test.Test_TC_001@66982506]" started-at="2022-08-23T22:06:55 IST" name="Bs" finished-at="2022-08-23T22:06:56 IST" duration-ms="1273" status="PASS">
+        <test-method is-config="true" signature="Bs()[pri:0, instance:Com.Test.Test_TC_001@294425a7]" started-at="2022-09-21T19:22:12 IST" name="Bs" finished-at="2022-09-21T19:22:14 IST" duration-ms="1789" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Bs -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:Com.Test.Test_TC_001@66982506]" started-at="2022-08-23T22:06:56 IST" name="setup" finished-at="2022-08-23T22:07:26 IST" duration-ms="29924" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.Test.Test_TC_001@294425a7]" started-at="2022-09-21T19:22:14 IST" name="setup" finished-at="2022-09-21T19:22:42 IST" duration-ms="28390" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_Testlogin_valid_credential()[pri:0, instance:Com.Test.Test_TC_001@66982506]" started-at="2022-08-23T22:07:27 IST" name="verify_Testlogin_valid_credential" finished-at="2022-08-23T22:07:43 IST" duration-ms="16351" status="PASS">
+        <test-method signature="verify_Testlogin_valid_credential()[pri:0, instance:Com.Test.Test_TC_001@294425a7]" started-at="2022-09-21T19:22:42 IST" name="verify_Testlogin_valid_credential" finished-at="2022-09-21T19:22:54 IST" duration-ms="12111" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Testlogin_valid_credential -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:Com.Test.Test_TC_001@66982506]" started-at="2022-08-23T22:08:06 IST" name="TearDown" finished-at="2022-08-23T22:08:07 IST" duration-ms="718" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Com.Test.Test_TC_001@294425a7]" started-at="2022-09-21T19:22:54 IST" name="TearDown" finished-at="2022-09-21T19:22:55 IST" duration-ms="840" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- Com.Test.Test_TC_001 -->
-    </test> <!-- Test -->
-  </suite> <!-- MasterSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
